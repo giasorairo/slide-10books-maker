@@ -33,6 +33,7 @@ css: unocss
   <img src='/images/Mask_group.png' class='rounded-full w-20 h-20' />
   <div class='self-center'>
     <p>ギア <a href="https://twitter.com/gia_sorairo" class="color-blue">@gia_sorairo</a></p>
+    <p>フロントエンドエンジニア 3年目</p>
   </div>
 </div>
 
@@ -62,15 +63,15 @@ layout: center
 - なぜ名刺代わりの10冊メイカーをつくろうと思ったのか
   - そもそもなぜ個人開発をしているのか
   - アイデア
-- 開発
+- 開発について
   - 使用技術
-  - ポリシー
+  - 開発中に心掛けていること
 - 実際つくってみてどうだったか
   - リリースツイートをしただけでは、ほとんど使ってもらえなかった
   - 宣伝をサボった自分の怠惰に対する禊として、qiita に記事を投稿することにした
   - 収益
   - 名刺代わりの10冊メイカーをリリースしてからの変化
-- 結論
+- まとめ
 
 ---
 
@@ -116,7 +117,7 @@ layout: center
 
 <v-click>
 
-その結果、
+ただ個人開発の現実は、
 
 </v-click>
 
@@ -131,8 +132,6 @@ layout: center
 
 もはや不労所得とは……??😇😇😇😇
 
-それでも不労所得をあきらめられないので個人開発をしている
-
 </v-click>
 
 ---
@@ -146,7 +145,7 @@ layout: center
 
   - きっかけは twitter で「#名刺代わりの小説10選」というハッシュタグのついたツイートが流れてきたこと
   - 小説が好きな自分は、そのハッシュタグのリンクに飛んだ
-  - リンク先のツイートを見ていて、問題を発見して、改善策を思いついた
+  - リンク先のツイートを見ていて、改善できそうだなあと思うところがあった
 
   </div>
 
@@ -171,7 +170,7 @@ layout: center
 
   <div class="p-2" />
 
-  ### 理由
+  ### 理由を考える
 
   <div class="p-1" />
 
@@ -246,7 +245,7 @@ layout: center
 
 ---
 
-# 開発開始
+# 開発について
 
 <a href="https://twitter.com/gia_sorairo/status/1548140744904704000">
   <img src="/images/dev-start-tweet.png" class="border" />
@@ -263,6 +262,7 @@ layout: center
   - swiper
   - react-infinite-scroller
   - node-canvas
+  - imagemin/magemin-webp
 - vercel
 - firebase (firestore, storage, functions)
 
@@ -270,7 +270,7 @@ layout: center
 
 ---
 
-# ポリシー
+# 開発中に心掛けていること
 
 <div class="grid grid-cols-2 gap-10">
 
@@ -415,7 +415,7 @@ layout: center
 layout: center
 ---
 
-# 結論
+# まとめ
 
 ---
 layout: center
